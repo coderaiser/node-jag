@@ -14,7 +14,7 @@ var jag         = require('jag'),
     fn          = function(error) {
         if (error)
             console.error(error.message);
-    }
+    };
 
 jag.pack('lib', fn);
 jag.unpack('lib.tar.gz', fn);
