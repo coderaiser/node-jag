@@ -4,6 +4,7 @@
   "description": "pack files and folders with tar and gzip",
   "main": "lib/jag.js",
   "dependencies": {
+    "checkup": "~1.0.2",
     "files-io": "~1.2.1",
     "fstream": "~1.0.3",
     "pipe-io": "~1.1.3",
