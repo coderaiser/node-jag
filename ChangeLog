@@ -1,3 +1,13 @@
+2014.12.08, v1.0.3
+
+fix:
+- (jag) unpack: rm type check
+
+feature:
+- (package) v1.0.2
+- (jag) add check
+
+
 2014.12.08, v1.0.2
 
 fix:
