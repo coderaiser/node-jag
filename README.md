@@ -16,8 +16,8 @@ var jag         = require('jag'),
             console.error(error.message);
     };
 
-jag.pack('lib', fn);
-jag.unpack('lib.tar.gz', fn);
+jag.pack('/tmp/lib', '/tmp/1/lib', fn); /* extenstion would be added */
+jag.unpack('/tmp/lib.tar.gz', '/tmp/lib', fn);
 ```
 
 ## License
