@@ -1,3 +1,13 @@
+2014.12.08, v1.0.2
+
+fix:
+- (jag) dir.tar.gz -> dir/dir/files
+
+feature:
+- (jag) add check
+- (package) v1.0.1
+
+
 2014.12.08, v1.0.1
 
 fix:
