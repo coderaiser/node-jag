@@ -1,6 +1,6 @@
 {
   "name": "jag",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pack files and folders with tar and gzip",
   "main": "lib/jag.js",
   "dependencies": {
