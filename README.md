@@ -10,8 +10,8 @@ Pack files and folders with tar and gzip
 ## Hot to use?
 
 ```js
-var jag         = require('jag'),
-    fn          = function(error) {
+var jag = require('jag'),
+    fn  = function(error) {
         if (error)
             console.error(error.message);
     };
