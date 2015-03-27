@@ -1,7 +1,7 @@
 Jag
 =======
 
-Pack files and folders with tar and gzip
+Pack files and folders with tar and gzip.
 
 ## Install
 
