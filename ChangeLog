@@ -1,3 +1,9 @@
+2015.03.27, v1.0.6
+
+feature:
+- (jag) show error when not .gz, or .tag.gz
+
+
 2015.02.16, v1.0.5
 
 fix:
