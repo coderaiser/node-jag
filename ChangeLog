@@ -1,3 +1,9 @@
+2015.06.20, v1.0.10
+
+fix:
+- (jag) unpack: tar extract when gzip only
+
+
 2015.06.09, v1.0.9
 
 fix:
