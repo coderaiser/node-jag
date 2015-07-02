@@ -1,7 +1,7 @@
 Jag
 =======
 
-Pack files and folders with tar and gzip.
+Pack files and folders with tar and gzip. Use [jaguar](https://github.com/coderaiser/node-jaguar "Jaguar") when you need to know a progress of operation.
 
 ## Install
 
