@@ -19,8 +19,10 @@ var jag = require('jag'),
 jag.pack('/tmp/lib', '/tmp/1/lib', fn); /* extenstion would be added */
 jag.unpack('/tmp/lib.tar.gz', '/tmp/lib', fn);
 ```
+## Related
+
+- [OneZip](https://github.com/coderaiser/node-onezip "OneZip") - Pack and extract zip archives with emitter.
+- [Tar-to-zip](https://github.com/coderaiser/node-tar-to-zip "tar-to-zip") - Convert tar and tar.gz archives to zip.
 
 ## License
-
 MIT
-
