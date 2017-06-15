@@ -8,7 +8,8 @@
     "files-io": "~1.2.1",
     "fstream": "~1.0.3",
     "pipe-io": "^2.0.1",
-    "tar": "~2.2.0"
+    "tar": "~2.2.0",
+    "eslint": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
