@@ -9,7 +9,7 @@
     "files-io": "^2.0.0",
     "fstream": "~1.0.3",
     "nyc": "^11.0.2",
-    "pipe-io": "^2.0.1",
+    "pipe-io": "^3.0.0",
     "tar": "^4.0.1"
   },
   "devDependencies": {},
